@@ -15,9 +15,12 @@
 ### Skill Highlights
 
 ---
-+ 
-+ 
-
++ office
++ html
++ asp.net
++ php
++ javascript
++ sqlserver
 
 ### Education
 
@@ -40,8 +43,7 @@ _ payam Noor University of Sanandaj
 ### Favorites
 
 ---
-+ support services 
-+ playing 
+
 
 ### working Experience
 
