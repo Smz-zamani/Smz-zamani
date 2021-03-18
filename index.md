@@ -23,9 +23,12 @@
 
 ---
 + Diploma : Bahonar 
+\\
 +Technician grade : uok
 + Bachelor of science : IT Engineering
 _ payam Noor University of Sanandaj 
+
++ student in Ms payam Noor tehran shomal 
 
 ### language
 
